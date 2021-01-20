@@ -17,6 +17,10 @@ chapter3~chapter8의 게임용 리소스 데이터가 있습니다.<br/>
 리소스 데이터는 장마다 폴더에 나눠 수록합니다. 
 게임을 만들 때 복사해서 사용하세요.
 
+- [Project](https://github.com/gilbutITbook/080267/releases/download/untagged-e96ee41877536795741a/project.zip): 완성 프로젝트 파일<br/>
+Chapter3~Chapter8의 완성된 프로젝트 파일입니다.<br/>
+위의 링크를 클릭해 내려받으세요.
+
 ## 예제 파일에 대해서
 ---
 이 파일에는 주식회사 SB 크리에이티브에서 발간한 책인 [유니티 교과서 2020 완벽 대응] 내에 게재한 리소스 파일, 스크립트 데이터가 수록되어 있습니다.<br/>
